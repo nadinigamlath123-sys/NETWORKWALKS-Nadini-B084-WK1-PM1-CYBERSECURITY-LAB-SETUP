@@ -1,0 +1,2 @@
+# NETWORKWALKS-Nadini-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
+kali linux lab setup
